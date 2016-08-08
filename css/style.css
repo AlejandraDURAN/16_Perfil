@@ -1,0 +1,98 @@
+.lista{
+	list-style: none;
+	display: inline;
+
+	
+}
+
+.menu{
+	display: inline-block;
+	font-family: Verdana;
+	font-size: 30px;
+	padding:8%;
+	color:#DF01D7;
+}
+
+.fondo{
+	background-image: url("../images/diseno.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover; 
+	height: 500px;
+
+}
+
+.logo{
+	padding-left:430px;
+	padding-bottom: 70px;
+	padding-top: 80px;
+}
+
+.texto{
+
+	margin-left:290px;
+	color:black;
+	font-family: Verdana;
+}
+
+.cita{
+	margin-left:300px;
+	color:black;
+	margin-top: 50px;
+	font-family: Verdana;
+}
+
+.aboutme{
+	color:#DF01D7;
+	font-family: Verdana;
+	font-size: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.contenido{
+	font-size:15px;
+	font-family: Verdana;
+
+	color:black;
+
+}
+
+.yo{
+	width: 100%;
+}
+
+.really{
+	color:#DF01D7;
+	font-family: Verdana;
+	font-size: 20x;
+	padding-top: 1px;
+	padding-bottom: 50px;
+}
+
+.back{
+	background-color: #E6E6E6;
+}
+
+
+.things{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+
+}
+
+ .espacio{
+ 	padding-left: 50px;
+ }
+
+ .fondo2{
+ 	background-image: url("../images/diseno.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover; 
+	height: 250px;
+ }
+
+
+
+
+
